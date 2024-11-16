@@ -1,2 +1,2 @@
 ## Helle there
-- I’m currently learning C++.
+- I’m learning C++.
